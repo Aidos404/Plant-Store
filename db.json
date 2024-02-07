@@ -1,0 +1,26 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "title": "Фикусы", 
+            "subtitle": "Эффектные украшения интерьера",
+            "image": "src/assets/img1.png"
+         
+        },
+         {
+            "id": 2,
+            "title": "Суккуленты", 
+            "subtitle": "Маленькие и модные",
+            "image": "src/assets/img2.png"
+           
+        },
+         {
+            "id": 3,
+            "title": "Пальмы", 
+            "subtitle": "Пышные и неприхотливые пальмы - элегантный предмет декора"  ,
+            "image": "src/assets/img3.png"
+            
+        }
+    ]
+}
+

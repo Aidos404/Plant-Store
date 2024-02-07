@@ -1,0 +1,32 @@
+.logo {
+    color: #155B0A;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-right: 180px;
+}
+.Header{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.Text-list{
+display: flex;
+margin-top: 15px;
+margin-left: 50px;
+}
+.Text-list li {
+    margin-right: 35px;
+}
+.Logo-list {
+    display: flex;
+    margin-top: 12px;
+    margin-left: 200px;
+   
+}
+.Logo-list li {
+    margin-right: 70px;
+}
+.popupOpened{
+    width: 100px;
+    height: 100px;
+}
